@@ -1,0 +1,7 @@
+package-as: RestedXpHelper
+
+ignore:
+  - README.md
+  - assets/RXPH-logo.png
+  - .gitignore
+  - .github

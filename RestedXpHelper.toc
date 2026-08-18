@@ -1,0 +1,8 @@
+## Interface: 20506
+## Title: Rested XP Helper
+## Notes: Track rested XP, estimate time until fully rested, customise the on-screen bar, and receive optional logout reminders.
+## Author: jw_mods
+## Version: 1.0.0
+## SavedVariables: RestedXpHelperDB
+
+RestedXpHelper.lua
